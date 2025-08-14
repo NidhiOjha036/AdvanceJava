@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib xmlns="https://jakarta.ee/xml/ns/jsp/taglib"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://jakarta.ee/xml/ns/jsp/taglib
+                            https://jakarta.ee/xml/ns/jsp/taglib_3_0.xsd"
+        version="3.0">
+
+  <tlib-version>1.0</tlib-version>
+  <short-name>examples</short-name>
+  <uri>/WEB-INF/descriptor.tld</uri>
+  <description>Simple Example Library. Author: You</description>
+
+  <tag>
+    <name>hello</name>
+    <tag-class>tagext.Tag1Handler</tag-class>
+    <body-content>JSP</body-content>
+    <description>Outputs Hello World with extra details</description>
+  </tag>
+
+  <tag>
+    <name>attribHello</name>
+    <tag-class>tagext.Tag2Handler</tag-class>
+    <body-content>JSP</body-content>
+    <description>Outputs Hello World with extra details</description>
+    <attribute>
+        <name>name</name>
+        <required>true</required>
+        <rtexprvalue>true</rtexprvalue>
+    </attribute>
+  </tag>
+
+  <tag>
+    <name>attribHello1</name>
+    <tag-class>tagext.Tag3Handler</tag-class>
+    <body-content>JSP</body-content>
+    <description>Outputs Hello World with extra details</description>
+    <attribute>
+        <name>name</name>
+        <required>true</required>
+        <rtexprvalue>true</rtexprvalue>
+    </attribute>
+     <attribute>
+        <name>count</name>
+        <required>true</required>
+        <rtexprvalue>true</rtexprvalue>
+    </attribute>
+  </tag>
+
+  <tag>
+    <name>helloVars</name>
+    <tag-class>tagext.Tag4Handler</tag-class>
+    <body-content>JSP</body-content>
+    <variable>
+      <name-given>name</name-given>
+      <variable-class>java.lang.String</variable-class>
+    </variable>
+    <variable>
+      <name-given>className</name-given>
+      <variable-class>java.lang.String</variable-class>
+    </variable>
+    <variable>
+      <name-given>date</name-given>
+      <variable-class>java.util.Date</variable-class>
+    </variable>
+    <attribute>
+      <name>name</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+  </tag>
+
+  <tag>
+    <name>helloIterator</name>
+    <tag-class>tagext.Tag5Handler</tag-class>
+    <body-content>JSP</body-content>
+    <variable>
+      <name-given>name</name-given>
+      <variable-class>java.lang.String</variable-class>
+    </variable>
+    <variable>
+      <name-given>index</name-given>
+      <variable-class>java.lang.Integer</variable-class>
+    </variable>
+    <variable>
+      <name-given>className</name-given>
+      <variable-class>java.lang.String</variable-class>
+      <scope>AT_END</scope>
+    </variable>
+    <variable>
+      <name-given>date</name-given>
+      <variable-class>java.util.Date</variable-class>
+      <scope>AT_END</scope>
+    </variable>
+    <attribute>
+      <name>names</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+    </attribute>
+  </tag>
+
+</taglib>

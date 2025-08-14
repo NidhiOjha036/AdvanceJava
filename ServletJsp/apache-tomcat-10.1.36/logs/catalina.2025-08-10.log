@@ -1,0 +1,57 @@
+10-Aug-2025 19:43:56.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.4+8-LTS-274
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+10-Aug-2025 19:43:56.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/conf/logging.properties
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Aug-2025 19:43:56.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Aug-2025 19:43:56.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+10-Aug-2025 19:43:56.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+10-Aug-2025 19:43:56.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/temp
+10-Aug-2025 19:43:56.467 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/nidhi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+10-Aug-2025 19:43:56.625 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Aug-2025 19:43:56.665 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [354] milliseconds
+10-Aug-2025 19:43:56.684 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Aug-2025 19:43:56.684 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+10-Aug-2025 19:43:56.689 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn]
+10-Aug-2025 19:43:57.366 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Aug-2025 19:43:57.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn] has finished in [713] ms
+10-Aug-2025 19:43:57.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch]
+10-Aug-2025 19:43:57.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch] has finished in [10] ms
+10-Aug-2025 19:43:57.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop]
+10-Aug-2025 19:43:57.499 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Aug-2025 19:43:57.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop] has finished in [88] ms
+10-Aug-2025 19:43:57.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp]
+10-Aug-2025 19:43:57.591 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Aug-2025 19:43:57.592 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp] has finished in [92] ms
+10-Aug-2025 19:43:57.593 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs]
+10-Aug-2025 19:43:57.602 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs] has finished in [9] ms
+10-Aug-2025 19:43:57.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager]
+10-Aug-2025 19:43:57.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager] has finished in [14] ms
+10-Aug-2025 19:43:57.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples]
+10-Aug-2025 19:43:57.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples] has finished in [81] ms
+10-Aug-2025 19:43:57.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT]
+10-Aug-2025 19:43:57.720 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT] has finished in [22] ms
+10-Aug-2025 19:43:57.720 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager]
+10-Aug-2025 19:43:57.739 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager] has finished in [19] ms
+10-Aug-2025 19:43:57.741 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Aug-2025 19:43:57.749 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1083] milliseconds
+10-Aug-2025 21:05:45.504 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Aug-2025 21:05:45.522 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Aug-2025 21:05:45.636 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Aug-2025 21:05:45.663 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

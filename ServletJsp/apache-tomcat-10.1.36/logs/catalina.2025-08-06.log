@@ -1,0 +1,144 @@
+06-Aug-2025 13:14:37.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+06-Aug-2025 13:14:37.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+06-Aug-2025 13:14:37.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+06-Aug-2025 13:14:37.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+06-Aug-2025 13:14:37.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+06-Aug-2025 13:14:37.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+06-Aug-2025 13:14:37.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+06-Aug-2025 13:14:37.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.4+8-LTS-274
+06-Aug-2025 13:14:37.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+06-Aug-2025 13:14:37.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+06-Aug-2025 13:14:37.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+06-Aug-2025 13:14:37.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/conf/logging.properties
+06-Aug-2025 13:14:37.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-Aug-2025 13:14:37.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+06-Aug-2025 13:14:37.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+06-Aug-2025 13:14:37.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+06-Aug-2025 13:14:37.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/temp
+06-Aug-2025 13:14:37.451 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/nidhi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+06-Aug-2025 13:14:37.599 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-Aug-2025 13:14:37.634 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [326] milliseconds
+06-Aug-2025 13:14:37.650 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-Aug-2025 13:14:37.650 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+06-Aug-2025 13:14:37.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn]
+06-Aug-2025 13:14:38.336 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-Aug-2025 13:14:38.369 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn] has finished in [716] ms
+06-Aug-2025 13:14:38.370 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch]
+06-Aug-2025 13:14:38.377 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDirectory Error deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:654)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1130)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1933)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1041)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:425)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1629)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:761)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/OnlineBatch]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [s1] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:2892)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:884)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1512)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1305)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:973)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:290)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4383)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 36 more
+06-Aug-2025 13:14:38.378 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch] has finished in [7] ms
+06-Aug-2025 13:14:38.378 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop]
+06-Aug-2025 13:14:38.463 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-Aug-2025 13:14:38.463 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop] has finished in [85] ms
+06-Aug-2025 13:14:38.464 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp]
+06-Aug-2025 13:14:38.550 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-Aug-2025 13:14:38.551 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp] has finished in [87] ms
+06-Aug-2025 13:14:38.551 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs]
+06-Aug-2025 13:14:38.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs] has finished in [10] ms
+06-Aug-2025 13:14:38.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager]
+06-Aug-2025 13:14:38.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager] has finished in [13] ms
+06-Aug-2025 13:14:38.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples]
+06-Aug-2025 13:14:38.648 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples] has finished in [73] ms
+06-Aug-2025 13:14:38.648 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT]
+06-Aug-2025 13:14:38.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT] has finished in [6] ms
+06-Aug-2025 13:14:38.655 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager]
+06-Aug-2025 13:14:38.662 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager] has finished in [8] ms
+06-Aug-2025 13:14:38.664 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-Aug-2025 13:14:38.669 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1034] milliseconds
+06-Aug-2025 13:16:18.737 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/OnlineBatch]
+06-Aug-2025 13:16:18.772 SEVERE [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Error during context [/OnlineBatch] restart
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/OnlineBatch]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1469)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1435)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1665)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:973)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [s1] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:2892)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:884)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1512)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1305)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:973)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:290)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4383)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 16 more
+06-Aug-2025 13:17:38.829 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Reloading context [/OnlineBatch]
+06-Aug-2025 22:31:42.731 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-Aug-2025 22:31:42.757 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-Aug-2025 22:31:42.849 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-Aug-2025 22:31:42.876 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,196 @@
+13-Aug-2025 09:20:41.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.4+8-LTS-274
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 09:20:41.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/conf/logging.properties
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Aug-2025 09:20:42.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 09:20:42.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/temp
+13-Aug-2025 09:20:42.040 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/nidhi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Aug-2025 09:20:42.186 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 09:20:42.217 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [312] milliseconds
+13-Aug-2025 09:20:42.239 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Aug-2025 09:20:42.239 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+13-Aug-2025 09:20:42.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn]
+13-Aug-2025 09:20:42.876 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 09:20:42.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn] has finished in [693] ms
+13-Aug-2025 09:20:42.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch]
+13-Aug-2025 09:20:42.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch] has finished in [9] ms
+13-Aug-2025 09:20:42.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop]
+13-Aug-2025 09:20:43.029 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 09:20:43.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop] has finished in [84] ms
+13-Aug-2025 09:20:43.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp]
+13-Aug-2025 09:20:43.120 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 09:20:43.121 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp] has finished in [91] ms
+13-Aug-2025 09:20:43.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs]
+13-Aug-2025 09:20:43.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs] has finished in [9] ms
+13-Aug-2025 09:20:43.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager]
+13-Aug-2025 09:20:43.145 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager] has finished in [14] ms
+13-Aug-2025 09:20:43.145 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples]
+13-Aug-2025 09:20:43.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples] has finished in [90] ms
+13-Aug-2025 09:20:43.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT]
+13-Aug-2025 09:20:43.242 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT] has finished in [6] ms
+13-Aug-2025 09:20:43.242 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager]
+13-Aug-2025 09:20:43.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager] has finished in [7] ms
+13-Aug-2025 09:20:43.251 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 09:20:43.257 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1039] milliseconds
+13-Aug-2025 10:40:04.762 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 10:40:04.771 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Aug-2025 10:40:04.900 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MyWebApp] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.926 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [Shop] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Aug-2025 10:40:04.927 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [Shop] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.941 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 10:40:04.970 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1394)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:985)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.972 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1394)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:985)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.972 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1394)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:985)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.973 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1394)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:985)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 10:40:04.979 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 19:36:13.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+13-Aug-2025 19:36:13.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+13-Aug-2025 19:36:13.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+13-Aug-2025 19:36:13.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.4+8-LTS-274
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 19:36:13.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 19:36:13.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/conf/logging.properties
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36
+13-Aug-2025 19:36:13.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/temp
+13-Aug-2025 19:36:13.245 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/nidhi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Aug-2025 19:36:13.417 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 19:36:13.453 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [341] milliseconds
+13-Aug-2025 19:36:13.468 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Aug-2025 19:36:13.469 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+13-Aug-2025 19:36:13.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn]
+13-Aug-2025 19:36:14.119 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 19:36:14.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/HolidayInn] has finished in [677] ms
+13-Aug-2025 19:36:14.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch]
+13-Aug-2025 19:36:14.157 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/OnlineBatch] has finished in [8] ms
+13-Aug-2025 19:36:14.158 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop]
+13-Aug-2025 19:36:14.239 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 19:36:14.239 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/Shop] has finished in [81] ms
+13-Aug-2025 19:36:14.240 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp]
+13-Aug-2025 19:36:14.328 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Aug-2025 19:36:14.329 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/MyWebApp] has finished in [90] ms
+13-Aug-2025 19:36:14.329 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs]
+13-Aug-2025 19:36:14.339 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/docs] has finished in [10] ms
+13-Aug-2025 19:36:14.339 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager]
+13-Aug-2025 19:36:14.351 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/manager] has finished in [12] ms
+13-Aug-2025 19:36:14.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples]
+13-Aug-2025 19:36:14.426 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/examples] has finished in [74] ms
+13-Aug-2025 19:36:14.426 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT]
+13-Aug-2025 19:36:14.432 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/ROOT] has finished in [6] ms
+13-Aug-2025 19:36:14.432 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager]
+13-Aug-2025 19:36:14.440 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nidhi/Desktop/AdvanceJava/ServletJsp/apache-tomcat-10.1.36/webapps/host-manager] has finished in [8] ms
+13-Aug-2025 19:36:14.442 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 19:36:14.447 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [993] milliseconds
+13-Aug-2025 19:53:53.990 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 19:53:54.000 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Aug-2025 19:53:54.139 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MyWebApp] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 19:53:54.168 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [Shop] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+13-Aug-2025 19:53:54.169 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [Shop] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1583)
+13-Aug-2025 19:53:54.187 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Aug-2025 19:53:54.216 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
